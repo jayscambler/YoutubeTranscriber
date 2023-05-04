@@ -17,7 +17,6 @@ You can switch out either of these with your own preference.
 5. Copy .env.example file and rename it as .env
 6. Change the Supabase URL and the key in the .env file
 7. Now, click on your project name on Supabase, and click on the SQL Editor menu which is on the left sidebar. 
-![image](images/new-query.png)
 
 8. Open schema.sql file in your IDE, copy it and paste in the Supabase's Query Editor, Hit Run.
 
